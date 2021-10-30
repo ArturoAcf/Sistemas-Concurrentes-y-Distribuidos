@@ -8,7 +8,7 @@
 // Implementación del problema de los filósofos (sin camarero).
 // Plantilla completada - solución sin interbloqueo.
 //
-// Para este ejercicio, uno de los filósofos obtendrá los tenedores correspondiente en orden inverso
+// Para este ejercicio, uno de los filósofos obtendrá los tenedores correspondientes en orden inverso
 //
 // Compilar -> mpicxx -std=c++11 filosofos.cpp -o filosofos
 // Ejecutar -> mpirun -np 10 ./filosofos (Si no se indica "-np 10" mostrará un mensaje de error)

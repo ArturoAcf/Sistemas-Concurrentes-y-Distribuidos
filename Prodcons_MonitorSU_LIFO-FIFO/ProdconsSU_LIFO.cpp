@@ -1,5 +1,4 @@
 //Realizado por: Arturo Alonso Carbonero
-//DNI: 75936665-A
 //Grupo: 2ºC - C1
 //Ejercicio: Implementación de la solución al problema Productor-Consumidor con varios productores y consumidores
 //           haciendo uso de monitores con semántica SU (señal espera ugrente).
@@ -147,7 +146,7 @@ void ProdconsM_SU::escribir(int valor){
 
   assert( primera_libre < num_celdas_total );
 
-  // hacer la operación de inserción, actualizando estado del monitor                             
+  // hacer la operación de inserción, actualizando estado del monitor
   buffer[primera_libre]=valor;
   primera_libre++;
 

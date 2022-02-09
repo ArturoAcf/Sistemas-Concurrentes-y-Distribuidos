@@ -1,5 +1,4 @@
 //Realizado por: Arturo Alonso Carbonero
-//DNI: 75936665-A
 //Grupo: 2ºC - C1
 //Fumador - Estanquero
 //g++ -std=c++11 -pthread -I. -o Fumadores Fumadores.cpp Semaphore.cpp
@@ -53,7 +52,7 @@ void funcionHebraEstanquero(){
     if(control==20){
       break;
     }
-    *///-> Se detiene el bucle tras 20 ejecuciones, simplemente por comodidad a la hora de visualizar la solución, pero no es necesario.        
+    *///-> Se detiene el bucle tras 20 ejecuciones, simplemente por comodidad a la hora de visualizar la solución, pero no es necesario.
   }
 }
 

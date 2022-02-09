@@ -1,5 +1,4 @@
 //Realizado por: Arturo Alonso Carbonero
-//DNI: 75936665-A
 //Grupo: 2ºC - C1
 //Productor - Consumidor (LIFO)
 //g++ -std=c++11 -pthread -I. -o ProdconsFIFO ProdconsFIFO.cpp Semaphore.cpp

@@ -1,5 +1,4 @@
 //Realizado por: Arturo Alonso Carbonero
-//DNI: 75936665-A
 //Grupo: 2ºC - C1
 //Lector - Escritor con monitor SU
 //g++ -std=c++11 -pthread -I. -o Lector-Escritor Lector-Escritor.cpp Semaphore.cpp HoareMonitor.cpp

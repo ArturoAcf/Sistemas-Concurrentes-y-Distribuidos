@@ -1,5 +1,4 @@
 //Realizado por: Arturo Alonso Carbonero
-//DNI: 75936665-A
 //Grupo: 2ºC - C1
 //Ejercicio: Implementación de la solución al problema Productor-Consumidor con varios productores y consumidores
 //           haciendo uso de monitores con semántica SU (señal espera ugrente).
@@ -145,7 +144,7 @@ int ProdconsM_SU::leer(){
 //Función escribir
 void ProdconsM_SU::escribir(int valor){
   // esperar bloqueado hasta que num_celdas_ocupadas < num_celdas_total
-  
+
   while ( primera_libre == num_celdas_total ) //Sustituir if por while
      libres.wait();
 

@@ -1,5 +1,5 @@
 // -----------------------------------------------------------------------------
-// Nombre: Arturo Alonso Carbonero - DNI:75936665-A / Grupo: 2ºC - C1
+// Nombre: Arturo Alonso Carbonero - Grupo: 2ºC - C1
 //
 // Sistemas concurrentes y Distribuidos.
 // Práctica 3. Implementación de algoritmos distribuidos con MPI

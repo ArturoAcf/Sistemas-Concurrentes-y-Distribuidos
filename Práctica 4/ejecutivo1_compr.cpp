@@ -6,7 +6,6 @@
 // Implementación del primer ejemplo de ejecutivo cíclico:
 //
 // Nombre: Arturo Alonso Carbonero
-// DNI: 75936665-A
 // Grupo: 2ºC - C1
 //
 //   Datos de las tareas:
